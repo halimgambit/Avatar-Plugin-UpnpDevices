@@ -1,0 +1,10 @@
+{
+	"modules": { 
+		"UpnpDevices": {
+			"version": "1.0",
+			"name": "upnp",
+			"rules": ["search for connected device","search connected device","look for connected device","search for connected network device","search on the network device"]
+		}
+	}
+}
+			
