@@ -1,2 +1,2 @@
-# UpnpDevices
- recherche les appareils sur le reseau en upnp
+# Avatar-Plugin-UpnpDevices
+ recherche les appareils connecté sur le réseau en upnp
